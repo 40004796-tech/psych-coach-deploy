@@ -3,8 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
+    "dev": "next dev --turbopack",    
+    "build": "next build",             
     "start": "next start",
-    "build": "next build --turbopack"
+    "lint": "eslint"
   },
   "dependencies": {
     "@types/bcryptjs": "^2.4.6",
