@@ -1,0 +1,16 @@
+{
+  "name": "心青心理教练",
+  "short_name": "心青教练",
+  "description": "温馨、青春、正能量的心理成长伙伴",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#fffaf7",
+  "theme_color": "#ff8ba7",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/x-icon"
+    }
+  ]
+}

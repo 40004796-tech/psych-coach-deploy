@@ -1,0 +1,13 @@
+[
+  {
+    "name": "温瑞松",
+    "email": "40004796@qq.com",
+    "phone": "18511698919",
+    "passwordHash": "$2b$12$IByLUigyUmJvb9Al77YjOuryXmxhkCua1PMXnsqt1mmVxSdVDm96m",
+    "id": "0zg20gcsd",
+    "registerDate": "2025-09-24",
+    "lastLogin": "2025-09-27",
+    "status": "active",
+    "bookings": 0
+  }
+]

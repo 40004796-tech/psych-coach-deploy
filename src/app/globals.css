@@ -1,0 +1,70 @@
+@import "tailwindcss";
+
+:root {
+  --background: #fffaf7;
+  --foreground: #1f2937;
+  --primary: #ff8ba7;
+  --primary-600: #ff6f92;
+  --secondary: #7dd3fc;
+  --accent: #a7f3d0;
+  --card: #ffffff;
+  --border: #f3e8ff;
+  
+  /* 动态主题变量 */
+  --primary-color: #ff8ba7;
+  --secondary-color: #ffc3a0;
+  --background-color: #fffaf7;
+  --text-color: #1f2937;
+  
+  /* 动态字体变量 */
+  --font-family: 'Plus Jakarta Sans';
+  --font-size: 16px;
+  --font-weight: 400;
+  
+  /* 动态布局变量 */
+  --container-width: 1200px;
+  --section-spacing: 24px;
+}
+
+@theme inline {
+  --color-background: var(--background-color, var(--background));
+  --color-foreground: var(--text-color, var(--foreground));
+  --color-primary: var(--primary-color, var(--primary));
+  --color-primary-600: var(--primary-600);
+  --color-secondary: var(--secondary-color, var(--secondary));
+  --color-accent: var(--accent);
+  --color-card: var(--card);
+  --color-border: var(--border);
+  --font-sans: var(--font-brand-sans);
+}
+
+body {
+  background: var(--background-color, var(--background));
+  color: var(--text-color, var(--foreground));
+  font-family: var(--font-family), system-ui, sans-serif;
+  font-size: var(--font-size);
+  font-weight: var(--font-weight);
+}
+
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  max-width: var(--container-width, 1200px);
+}
+
+.section-spacing {
+  margin-bottom: var(--section-spacing, 24px);
+}
+
+.heading-hero {
+  font-weight: 800;
+  line-height: 1.1;
+}
+
+.heading-section {
+  font-weight: 800;
+  line-height: 1.15;
+}

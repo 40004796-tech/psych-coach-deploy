@@ -1,0 +1,27 @@
+[
+  {
+    "name": "持久化测试用户",
+    "contact": "13900139000",
+    "topic": "第二次测试",
+    "mode": "线下咨询",
+    "note": "测试数据一致性",
+    "servicePackage": {
+      "id": "premium",
+      "name": "高级套餐",
+      "price": 799,
+      "duration": 90,
+      "features": [
+        "深度心理分析",
+        "个性化成长方案",
+        "长期跟踪服务"
+      ]
+    },
+    "totalPrice": 799,
+    "id": "jhgy958o4",
+    "status": "CONFIRMED",
+    "createdAt": "2025-09-24T05:08:36.784Z",
+    "updatedAt": "2025-09-24T05:50:13.310Z",
+    "cancelledAt": "2025-09-24T05:47:31.603Z",
+    "adminNotes": "重新确认预约"
+  }
+]

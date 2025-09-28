@@ -1,0 +1,668 @@
+[
+  {
+    "id": "5hbdbvid7",
+    "type": "service",
+    "title": "个人心理咨询",
+    "description": "一对一专业心理辅导",
+    "content": "提供专业的个人心理咨询服务，帮助您解决心理困扰，提升生活质量。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.971Z",
+    "updatedAt": "2025-09-24T05:07:15.971Z"
+  },
+  {
+    "id": "v8z4nbzsb",
+    "type": "service",
+    "title": "情感关系咨询",
+    "description": "改善人际关系和情感问题",
+    "content": "专业的情感关系咨询，帮助您建立健康的人际关系和情感连接。",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z"
+  },
+  {
+    "id": "fq7ecubwy",
+    "type": "team",
+    "title": "张心理师",
+    "description": "资深心理咨询师",
+    "content": "拥有10年心理咨询经验，擅长情绪管理和人际关系咨询。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z"
+  },
+  {
+    "id": "myczbv027",
+    "type": "process",
+    "title": "预约咨询",
+    "description": "在线预约专业心理咨询",
+    "content": "通过我们的平台轻松预约心理咨询师，选择合适的时间进行咨询。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z"
+  },
+  {
+    "id": "5ac5ejqjv",
+    "type": "article",
+    "title": "心理健康的重要性",
+    "description": "了解心理健康对生活的影响",
+    "content": "心理健康是整体健康的重要组成部分，影响着我们的思维、情感和行为。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z"
+  },
+  {
+    "id": "u9l6cg5vt",
+    "type": "coach",
+    "title": "林晨",
+    "description": "国家二级心理咨询师 / 青年成长教练",
+    "content": "温暖稳重的陪伴风格，擅长帮助来访者建立自我支持。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z",
+    "extra": {
+      "bio": "温暖稳重的陪伴风格，擅长帮助来访者建立自我支持。",
+      "tags": [
+        "情绪管理",
+        "自我探索",
+        "关系沟通"
+      ]
+    }
+  },
+  {
+    "id": "4ccdpt4sk",
+    "type": "coach",
+    "title": "苏宁",
+    "description": "职业发展教练 / ICF ACC",
+    "content": "以目标为导向，兼顾情绪与行动，助你稳步成长。",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z",
+    "extra": {
+      "bio": "以目标为导向，兼顾情绪与行动，助你稳步成长。",
+      "tags": [
+        "职业规划",
+        "目标达成",
+        "压力管理"
+      ]
+    }
+  },
+  {
+    "id": "ejsedg3c8",
+    "type": "coach",
+    "title": "张一",
+    "description": "亲密关系教练 / 婚恋沟通",
+    "content": "关注关系中的真实需要，促进更清晰的表达与理解。",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z",
+    "extra": {
+      "bio": "关注关系中的真实需要，促进更清晰的表达与理解。",
+      "tags": [
+        "亲密关系",
+        "沟通技巧",
+        "自我价值"
+      ]
+    }
+  },
+  {
+    "id": "byvzvktsd",
+    "type": "testimonial",
+    "title": "Y.同学",
+    "description": "大学生",
+    "content": "每次结束都更有力量，开始愿意表达真实的需要，也更理解自己了。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.972Z",
+    "updatedAt": "2025-09-24T05:07:15.972Z",
+    "extra": {
+      "role": "大学生"
+    }
+  },
+  {
+    "id": "ldv5o0z90",
+    "type": "testimonial",
+    "title": "L.同事",
+    "description": "设计师",
+    "content": "焦虑明显减少，能把注意力放回当下，逐步建立稳定节奏。",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.973Z",
+    "updatedAt": "2025-09-24T05:07:15.973Z",
+    "extra": {
+      "role": "设计师"
+    }
+  },
+  {
+    "id": "mc4jh9gly",
+    "type": "testimonial",
+    "title": "C.朋友",
+    "description": "产品经理",
+    "content": "在职业困惑期得到很大支持，行动计划也更清晰可行。",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.973Z",
+    "updatedAt": "2025-09-24T05:07:15.973Z",
+    "extra": {
+      "role": "产品经理"
+    }
+  },
+  {
+    "id": "8j5i0pe0q",
+    "type": "faq",
+    "title": "一次多长时间？",
+    "description": "咨询时长说明",
+    "content": "单次约50分钟，首次会根据你的目标进行评估和计划制定。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.973Z",
+    "updatedAt": "2025-09-24T05:07:15.973Z",
+    "extra": {
+      "question": "一次多长时间？",
+      "answer": "单次约50分钟，首次会根据你的目标进行评估和计划制定。"
+    }
+  },
+  {
+    "id": "paore3zom",
+    "type": "faq",
+    "title": "线上还是线下？",
+    "description": "咨询方式说明",
+    "content": "均可。我们提供视频与线下空间，视你的方便选择。",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.973Z",
+    "updatedAt": "2025-09-24T05:07:15.973Z",
+    "extra": {
+      "question": "线上还是线下？",
+      "answer": "均可。我们提供视频与线下空间，视你的方便选择。"
+    }
+  },
+  {
+    "id": "cyo33wp8v",
+    "type": "faq",
+    "title": "价格如何？",
+    "description": "价格说明",
+    "content": "根据教练资历与服务形式，区间为¥299-¥899/次。",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.973Z",
+    "updatedAt": "2025-09-24T05:07:15.973Z",
+    "extra": {
+      "question": "价格如何？",
+      "answer": "根据教练资历与服务形式，区间为¥299-¥899/次。"
+    }
+  },
+  {
+    "id": "2z0y8mhwu",
+    "type": "faq",
+    "title": "隐私如何保障？",
+    "description": "隐私保护说明",
+    "content": "遵循严格保密原则，除法律要求或安全风险外，不会泄露任何信息。",
+    "order": 4,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.973Z",
+    "updatedAt": "2025-09-24T05:07:15.973Z",
+    "extra": {
+      "question": "隐私如何保障？",
+      "answer": "遵循严格保密原则，除法律要求或安全风险外，不会泄露任何信息。"
+    }
+  },
+  {
+    "id": "6duygyql4",
+    "type": "feature",
+    "title": "严选教练",
+    "description": "专业资质与经验审核，持续督导与成长。",
+    "content": "我们严格筛选每一位心理教练，确保他们具备专业资质和丰富经验。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.974Z",
+    "updatedAt": "2025-09-24T05:07:15.974Z",
+    "extra": {
+      "icon": "/icons/heart.svg"
+    }
+  },
+  {
+    "id": "04amblrhf",
+    "type": "feature",
+    "title": "隐私保障",
+    "description": "全程加密与隐私保护，安全可信赖。",
+    "content": "我们采用先进的加密技术，确保您的隐私信息得到充分保护。",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.974Z",
+    "updatedAt": "2025-09-24T05:07:15.974Z",
+    "extra": {
+      "icon": "/icons/shield.svg"
+    }
+  },
+  {
+    "id": "goe5olb0y",
+    "type": "feature",
+    "title": "灵活预约",
+    "description": "多时段可选，线上线下均可，支持随时改期。",
+    "content": "提供灵活的预约时间选择，支持线上和线下两种咨询方式。",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.974Z",
+    "updatedAt": "2025-09-24T05:07:15.974Z",
+    "extra": {
+      "icon": "/icons/calendar.svg"
+    }
+  },
+  {
+    "id": "3p10c2hor",
+    "type": "callout",
+    "title": "让我们一起，走向更有力量的明天",
+    "description": "适合情绪压力、关系困扰、自我探索、职业发展等多种主题。",
+    "content": "年轻、温暖、具备实效的心理教练服务。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.976Z",
+    "updatedAt": "2025-09-24T05:07:15.976Z",
+    "extra": {
+      "buttonText": "立即预约",
+      "buttonLink": "#book"
+    }
+  },
+  {
+    "id": "a46jyvute",
+    "type": "footer",
+    "title": "心青心理教练",
+    "description": "温馨、青春、正能量的心理成长伙伴",
+    "content": "专业的心理教练服务，帮助您实现更好的自己。",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.976Z",
+    "updatedAt": "2025-09-24T05:07:15.976Z",
+    "extra": {
+      "logo": "心",
+      "companyName": "心青心理教练",
+      "companyDescription": "温馨、青春、正能量的心理成长伙伴。",
+      "copyright": "© 2025 心青心理教练 · All rights reserved."
+    }
+  },
+  {
+    "id": "e8o20xxo8",
+    "type": "footer_section",
+    "title": "服务",
+    "description": "我们的服务项目",
+    "content": "提供专业的心理教练服务",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.976Z",
+    "updatedAt": "2025-09-24T05:07:15.976Z",
+    "extra": {
+      "sectionTitle": "服务",
+      "links": [
+        {
+          "text": "个体教练",
+          "url": "#services"
+        },
+        {
+          "text": "关系议题",
+          "url": "#services"
+        },
+        {
+          "text": "职场发展",
+          "url": "#services"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6pazqe0s1",
+    "type": "footer_section",
+    "title": "支持",
+    "description": "用户支持信息",
+    "content": "为用户提供全面的支持服务",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.976Z",
+    "updatedAt": "2025-09-24T05:07:15.976Z",
+    "extra": {
+      "sectionTitle": "支持",
+      "links": [
+        {
+          "text": "隐私政策",
+          "url": "/privacy"
+        },
+        {
+          "text": "用户条款",
+          "url": "/terms"
+        },
+        {
+          "text": "联系客服",
+          "url": "/contact"
+        }
+      ]
+    }
+  },
+  {
+    "id": "fc3ig4eou",
+    "type": "footer_social",
+    "title": "关注我们",
+    "description": "社交媒体链接",
+    "content": "关注我们的社交媒体账号",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.976Z",
+    "updatedAt": "2025-09-24T05:07:15.976Z",
+    "extra": {
+      "sectionTitle": "关注我们",
+      "socialLinks": [
+        {
+          "platform": "WeChat",
+          "url": "#",
+          "icon": "微"
+        },
+        {
+          "platform": "Weibo",
+          "url": "#",
+          "icon": "博"
+        }
+      ]
+    }
+  },
+  {
+    "id": "xaim1iwdx",
+    "type": "service_package",
+    "title": "基础咨询",
+    "description": "适合初次接触心理教练的用户",
+    "content": "专业心理评估，个性化成长建议，基础情绪管理指导，后续跟进计划",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.976Z",
+    "updatedAt": "2025-09-24T05:07:15.976Z",
+    "extra": {
+      "packageId": "basic",
+      "price": 299,
+      "duration": 50,
+      "features": [
+        "专业心理评估",
+        "个性化成长建议",
+        "基础情绪管理指导",
+        "后续跟进计划"
+      ],
+      "popular": false,
+      "category": "individual"
+    }
+  },
+  {
+    "id": "8qjeiq7la",
+    "type": "service_package",
+    "title": "标准套餐",
+    "description": "最受欢迎的心理教练服务",
+    "content": "深度心理分析，个性化成长方案，情绪管理技巧训练，人际关系指导，3次免费跟进",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.976Z",
+    "updatedAt": "2025-09-24T05:07:15.976Z",
+    "extra": {
+      "packageId": "standard",
+      "price": 499,
+      "duration": 60,
+      "features": [
+        "深度心理分析",
+        "个性化成长方案",
+        "情绪管理技巧训练",
+        "人际关系指导",
+        "3次免费跟进"
+      ],
+      "popular": true,
+      "category": "individual"
+    }
+  },
+  {
+    "id": "ci0d3mkab",
+    "type": "service_package",
+    "title": "高级套餐",
+    "description": "全方位心理成长服务",
+    "content": "全面心理评估，定制化成长计划，高级情绪管理技巧，职业发展指导，亲密关系咨询，5次免费跟进，专属成长档案",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.977Z",
+    "updatedAt": "2025-09-24T05:07:15.977Z",
+    "extra": {
+      "packageId": "premium",
+      "price": 799,
+      "duration": 90,
+      "features": [
+        "全面心理评估",
+        "定制化成长计划",
+        "高级情绪管理技巧",
+        "职业发展指导",
+        "亲密关系咨询",
+        "5次免费跟进",
+        "专属成长档案"
+      ],
+      "popular": false,
+      "category": "individual"
+    }
+  },
+  {
+    "id": "duubdi1px",
+    "type": "service_package",
+    "title": "团体咨询",
+    "description": "小组形式的心灵成长",
+    "content": "小组互动学习，同伴支持系统，集体成长活动，经验分享交流",
+    "order": 4,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.977Z",
+    "updatedAt": "2025-09-24T05:07:15.977Z",
+    "extra": {
+      "packageId": "group",
+      "price": 199,
+      "duration": 120,
+      "features": [
+        "小组互动学习",
+        "同伴支持系统",
+        "集体成长活动",
+        "经验分享交流"
+      ],
+      "popular": false,
+      "category": "group"
+    }
+  },
+  {
+    "id": "qk9638c9j",
+    "type": "service_package",
+    "title": "在线咨询",
+    "description": "便捷的线上心理服务",
+    "content": "视频/语音咨询，在线心理评估，数字化成长记录，灵活时间安排",
+    "order": 5,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.977Z",
+    "updatedAt": "2025-09-24T05:07:15.977Z",
+    "extra": {
+      "packageId": "online",
+      "price": 399,
+      "duration": 50,
+      "features": [
+        "视频/语音咨询",
+        "在线心理评估",
+        "数字化成长记录",
+        "灵活时间安排"
+      ],
+      "popular": false,
+      "category": "online"
+    }
+  },
+  {
+    "id": "k1sjbt9ds",
+    "type": "system_settings",
+    "title": "主题设置",
+    "description": "网站主题颜色配置",
+    "content": "配置网站的主色调、辅助色、背景色等主题设置",
+    "order": 1,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.977Z",
+    "updatedAt": "2025-09-24T05:07:15.977Z",
+    "extra": {
+      "settingType": "theme",
+      "primaryColor": "#ff8ba7",
+      "secondaryColor": "#ffc3a0",
+      "backgroundColor": "#ffffff",
+      "textColor": "#1f2937"
+    }
+  },
+  {
+    "id": "xov8nn0b5",
+    "type": "system_settings",
+    "title": "字体设置",
+    "description": "网站字体配置",
+    "content": "配置网站的字体族、字体大小、字体粗细等设置",
+    "order": 2,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.977Z",
+    "updatedAt": "2025-09-24T05:07:15.977Z",
+    "extra": {
+      "settingType": "font",
+      "fontFamily": "Plus Jakarta Sans",
+      "fontSize": "16px",
+      "fontWeight": "400"
+    }
+  },
+  {
+    "id": "xt03n2xbo",
+    "type": "system_settings",
+    "title": "布局设置",
+    "description": "网站布局配置",
+    "content": "配置网站的容器宽度、板块间距等布局设置",
+    "order": 3,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.977Z",
+    "updatedAt": "2025-09-24T05:07:15.977Z",
+    "extra": {
+      "settingType": "layout",
+      "containerWidth": "1200px",
+      "sectionSpacing": 24
+    }
+  },
+  {
+    "id": "p0n8fnpf4",
+    "type": "system_settings",
+    "title": "板块设置",
+    "description": "首页板块显示和顺序配置",
+    "content": "配置首页各个板块的显示状态和显示顺序",
+    "order": 4,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.977Z",
+    "updatedAt": "2025-09-24T09:25:20.989Z",
+    "extra": {
+      "settingType": "section_order",
+      "sectionOrder": [
+        "Hero",
+        "features",
+        "callout",
+        "services",
+        "team",
+        "process",
+        "articles",
+        "coaches",
+        "testimonials",
+        "faq",
+        "booking"
+      ],
+      "showHero": true,
+      "showFeatures": true,
+      "showCallout": true,
+      "showServices": true,
+      "showTeam": true,
+      "showProcess": true,
+      "showArticles": true,
+      "showCoaches": true,
+      "showTestimonials": true,
+      "showFAQ": true,
+      "showBooking": true
+    }
+  },
+  {
+    "id": "rdebopsbq",
+    "type": "system_settings",
+    "title": "板块单独设置",
+    "description": "每个板块的独立主题、字体、布局配置",
+    "content": "为每个板块配置独立的主题颜色、字体设置、布局样式等",
+    "order": 5,
+    "isActive": true,
+    "createdAt": "2025-09-24T05:07:15.978Z",
+    "updatedAt": "2025-09-24T07:46:02.848Z",
+    "extra": {
+      "settingType": "section_settings",
+      "sectionSettings": {
+        "hero": {
+          "theme": {
+            "primaryColor": "#ff8ba7",
+            "secondaryColor": "#ffc3a0",
+            "backgroundColor": "#fffaf7",
+            "textColor": "#1f2937"
+          },
+          "font": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "18px",
+            "fontWeight": "600"
+          },
+          "layout": {
+            "padding": "80px 0",
+            "margin": "0",
+            "borderRadius": "0",
+            "boxShadow": "none"
+          }
+        },
+        "features": {
+          "theme": {
+            "primaryColor": "#ff8ba7",
+            "secondaryColor": "#ffc3a0",
+            "backgroundColor": "#ffffff",
+            "textColor": "#1f2937"
+          },
+          "font": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "16px",
+            "fontWeight": "400"
+          },
+          "layout": {
+            "padding": "64px 0",
+            "margin": "0",
+            "borderRadius": "16px",
+            "boxShadow": "0 4px 6px -1px rgba(0, 0, 0, 0.1)"
+          }
+        },
+        "callout": {
+          "theme": {
+            "primaryColor": "#ff8ba7",
+            "secondaryColor": "#ffc3a0",
+            "backgroundColor": "#fef3c7",
+            "textColor": "#1f2937"
+          },
+          "font": {
+            "fontFamily": "Plus Jakarta Sans",
+            "fontSize": "18px",
+            "fontWeight": "700"
+          },
+          "layout": {
+            "padding": "64px 0",
+            "margin": "0",
+            "borderRadius": "24px",
+            "boxShadow": "0 10px 15px -3px rgba(0, 0, 0, 0.1)"
+          }
+        },
+        "footer": {
+          "font": {
+            "copyrightFontSize": "16px"
+          },
+          "theme": {
+            "textColor": "#131416",
+            "linkColor": "#8b7365",
+            "copyrightColor": "#1a1919"
+          }
+        }
+      }
+    }
+  }
+]
