@@ -2,7 +2,7 @@ import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
   // 生产环境优化
-  output: 'standalone',
+  //output: 'standalone',
   
   // 图片优化
   images: {
